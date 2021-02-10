@@ -1,0 +1,7 @@
+.classpath
+.project
+.settings/
+*.zip
+target/
+test-output/
+
